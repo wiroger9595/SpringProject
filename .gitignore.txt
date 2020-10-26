@@ -215,3 +215,4 @@ zipp==0.6.0
 
 /ShoppingCart/target/
 /ShoppingCartBackend/target/
+/onlineFurniture/target/
