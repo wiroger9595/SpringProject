@@ -8,7 +8,7 @@ public class OnlineFurnitureApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(OnlineFurnitureApplication.class, args);
-		System.out.println("finish"); 
+		System.out.println("finish");  
 	}
 
 }
